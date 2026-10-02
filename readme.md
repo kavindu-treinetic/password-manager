@@ -11,14 +11,19 @@
 
 # Vaultwarden
 
-- can disable user signup
-- when we add sso, even when the user gt invited he needed to be in the azure ad
-- when a user create a account he can have his own passwords save in his vault
-- we can create a account for the company can save those password in a organization and add people to the collections in the organization
-- can send password with link
-    - data only available for given count and hours
-    - also limit for specific users
+- can disable user signup, so only invited users can create account
+- when we add sso from azure ad, even when the user gets invited he needed to be in the azure ad
 
+<img src="./images/sso.png" width="600">
+
+- when a user have a account he can have his own passwords save in his vault
+- we can create vaultwarden as auto complete password manager in the browser
+- we can create a account for the company can save those password in a organization and add people to the collections in the organization
+- can send password, and files with link
+  - data only available for given count and hours
+  - also limit for specific users
+
+<img src="./images/>
 
 ## Things to check
 
